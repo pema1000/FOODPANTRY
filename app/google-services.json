@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49346326287",
+    "project_id": "foodpantry-d36a6",
+    "storage_bucket": "foodpantry-d36a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49346326287:android:f3415961b928c3f206187a",
+        "android_client_info": {
+          "package_name": "com.example.foodpantry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49346326287-du64cur04habc6tcdueom3geefolpv18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGew-PZ3-jR63A_BFBotB-MphNExmY5L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49346326287-du64cur04habc6tcdueom3geefolpv18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
